@@ -3,7 +3,7 @@ A tool that patches the Original Xbox Video Chat software to allow it to be used
 
 The Xbox camera that comes bundled with the software is somewhat expensive and rare to find as it was exclusive to Japan. With the software patched, you can use an EyeToy camera with a modification using the ConsoleMods guide [here](https://consolemods.org/wiki/Xbox:EyeToy_Mod_Guide).
 
-Only the Namtai models of the camera will work. The Logitech models do not work. It's unknown if Chicony models work, though they are more rare.
+Only the Namtai and Chicony models of the camera will work. The Logitech models do not work.
 
 ## Using the tool
 Python 2.6 or newer needs to be installed. You can download it [here](https://www.python.org/).
